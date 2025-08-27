@@ -1,0 +1,60 @@
+body {
+  font-family: Space Grotesk;
+  font-weight: 500;
+  background-color: #090040;
+  background-image: linear-gradient(transparent, 80%, #B13BFF);;
+  color: #FFCC00;
+  padding: 5px;
+  text-align: center;
+}
+
+h1 {
+  font-family: Bitcount Grid Double;
+  font-size: 250%;
+  font-weight: 400;
+  color: #FFE100;
+}
+
+h2, h3 {
+  font-family: Roboto Condensed;
+  font-size: 150%;
+  font-weight: 600;
+  color: #FF9900;
+}
+
+li {
+}
+
+ul {
+  padding: 5;
+  list-style-position: inside;
+}
+
+a {
+  text-decoration: none;
+  color: #6FFF00;
+  font-size: 18px;
+  font-weight: bold;
+  transition: 0.3s ease;
+  justify-content: center;
+}
+
+a:hover {
+  color: #66FFF0;
+}
+
+#profile-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.card {
+  background-color: #471396;
+  background-image: linear-gradient(transparent, 92.5%, #BF00FF);
+  padding: 10px 5px;
+  width: 500px;
+  margin: 25px auto;
+  border-radius: 3%;
+  border: 2px solid #B13BFF;
+}
